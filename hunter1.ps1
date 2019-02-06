@@ -10,7 +10,7 @@
 # use at your own risk ;)
 # this might set DLP systems off in a crazy way so be careful when you run this!
 #####################################
-#This one is for cral3r!!!!!!!!!!
+#This one is for Cral3r!!!!!!!!!!
 ####################################
 
 $extentsions = "*.xlsx","*.docx","*.doc","*.pptx","*.ppt"
